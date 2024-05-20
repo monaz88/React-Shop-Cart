@@ -1,0 +1,15 @@
+.container{
+      display: flex;
+      justify-content:space-around;
+      text-transform: capitalize;
+
+}
+img{
+      width: 400px;
+}
+.text{
+      margin-top: 50px;
+      font-size: 19px;
+}
+h1{
+}
